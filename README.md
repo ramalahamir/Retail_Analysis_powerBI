@@ -84,12 +84,13 @@ Three pages, all sharing a consistent color theme, PKR currency formatting, and 
 KPI strip (Net Sales, Gross Profit, Profit Margin, Sales Target, Target Achievement, Return Rate), channel split, regional summary table, and a monthly actual-vs-target trend.
 
 
-![Executive Overview](readme_images/executive_overview_page_01.png)
+![Executive Overview](readme_images/Executive_overview_page_01.png)
 
 ### Page 2 — Product & Customer Performance
 Top products by Net Sales, category/subcategory profit treemap, customer segment breakdown, and top cities by sales.
 
 ![Product & Customer Performance](readme_images/product_and_customer_performance_page_02.png)
+![Product Tooltip](readme_images/product_tooltip.png)
 
 ### Page 3 — Store & Target Performance
 Store-level target achievement with conditional formatting, return rate by store, variance-to-target, and store type/region comparison.
